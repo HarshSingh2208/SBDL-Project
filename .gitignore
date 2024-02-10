@@ -1,0 +1,4 @@
+#Default ignored files
+/worksapce.xml
+.idea/*
+lib/__pychache__/*
